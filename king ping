@@ -1,5 +1,3 @@
-# King-ping-
-fram 
 place(-6.659, 0.951, -30.945, "Pyromancer", 900)
 upgrade(-6.659, 2.304, -30.945, 325)
 SetTarget(-6.659, 2.304, -30.945, "Random")
